@@ -6,3 +6,7 @@ package manager: yarn
 main libs:
 - vite
 - pixi.js
+
+
+start:
+`cd ultimate-cauch-co-op && yarn dev`
